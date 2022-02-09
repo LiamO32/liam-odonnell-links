@@ -1,0 +1,42 @@
+.title {
+    font-size: 2em;
+    padding-bottom:16px;
+}
+
+.me {
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    margin-bottom: 8px;
+    background-image: url(../images/me.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.links > a {
+    height: 50px;
+    line-height: 50px;
+    width: 15em;
+    margin-bottom: 16px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.links > a > svg {
+    margin-right: 8px;
+}
+
+.youtube {
+    background-color: #f52a2a;
+}
+
+.instagram {
+    background-color: #ff1990;
+}
+
+.twitter {
+    background-color: #1cacff;
+}

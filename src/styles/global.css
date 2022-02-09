@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: "Staatliches";
+    color: white;
+}
+
+html, body {
+    min-height: 100%;
+}
+
+body {
+    background: rgb(24,125,187);
+    background: linear-gradient(180deg, rgba(24,125,187,1) 0%, rgba(8,48,73,1) 100%);
+}
+
+p {
+    margin: 16px auto;
+    line-height: 1.5rem;
+}
+
+/* CUSTOM CLASSES */
+.flex-center-column {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.full-screen-height {
+    height: 100vh;
+}
