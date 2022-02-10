@@ -1,0 +1,30 @@
+.title {
+    font-size: 2em;
+    padding-bottom:16px;
+}
+
+.profile-image {
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    margin-bottom: 8px;
+    background-size: cover;
+    background-position: center;
+}
+
+.links > a {
+    height: 75px;
+    line-height: 75px;
+    width: 15em;
+    margin-bottom: 16px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.links > a > svg {
+    margin-right: 8px;
+}
