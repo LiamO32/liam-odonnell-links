@@ -9,7 +9,7 @@ export default function Home() {
     <Layout>
       <section className='flex-center-column'>
         <section className="title flex-center-column">
-          <div class="profile-image me"></div>
+          <div className="profile-image me"></div>
           <h1>Liam O'Donnell</h1>
         </section>
         <section className="links flex-center-column">
