@@ -1,5 +1,9 @@
 .me {
-    background-image: url(../images/me.jpeg);
+    background-image: url(../images/me.jpg);
+}
+
+.linkedin {
+    background-color: #2b69cc;
 }
 
 .youtube {

@@ -13,13 +13,12 @@ html, body {
 }
 
 html {
-    background: rgba(24,125,187,1);
+    background: #111;
 }
 
 body {
     min-height: 100vh;
-    background: rgb(24,125,187);
-    background: linear-gradient(180deg, rgba(24,125,187,1) 0%, rgba(8,48,73,1) 100%);
+    background: #111
 }
 
 p {
